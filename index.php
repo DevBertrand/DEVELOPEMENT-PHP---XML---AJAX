@@ -1,0 +1,4 @@
+<?php
+echo "LA VIE EST UN ETERNEL RECOMMENCEMENT";
+
+?>
